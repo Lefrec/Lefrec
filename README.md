@@ -1,5 +1,61 @@
-#  About Me:
-Hi, my name is Paolo Vincent (or Lefrec). <br><br>I'm currently a student in web design and development in France.
+```
+ █████                   ██████                                
+▒▒███                   ███▒▒███                               
+ ▒███         ██████   ▒███ ▒▒▒  ████████   ██████   ██████    
+ ▒███        ███▒▒███ ███████   ▒▒███▒▒███ ███▒▒███ ███▒▒███   
+ ▒███       ▒███████ ▒▒▒███▒     ▒███ ▒▒▒ ▒███████ ▒███ ▒▒▒    
+ ▒███      █▒███▒▒▒    ▒███      ▒███     ▒███▒▒▒  ▒███  ███   
+ ███████████▒▒██████   █████     █████    ▒▒██████ ▒▒██████    
+▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒   ▒▒▒▒▒     ▒▒▒▒▒      ▒▒▒▒▒▒   ▒▒▒▒▒▒    
+```
 
-#  Tech Stack:
+Hi, my name is Paolo Vincent (or Lefrec).
+I'm currently a student in web design and development in France.
+A creative nerd, passionate about web and game dev.
+
+
+
+##  Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=flat&logo=Pocketbase&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+
+
+```
+                       ██████████████████████                       
+                 █████████████████████████████████                  
+              ██████████████████    ██████████████████              
+           ███████████████████        ███████████████████           
+        ████████████████████   ██  ██   ███████████████████         
+       ███████████████████   ████  ████   ███████████████████       
+     ████████████████████████████  ████████████████████████████     
+    █████████████████████████████  █████████████████████████████    
+   ██████████████████████████████  ██████████████████████████████   
+  ███████████████████████████████      ███████████████████████████  
+ █████████████  █████████████████  █████     ██████████████████████ 
+ ███████████████  ███████████████  █████████   ████████████████████ 
+█████████████████   █████████████  ███████████  ████████████████████
+██████████████████   ████████████  ███████████  ████████████████████
+████████████████████  ███████████  ███████████  ████████████████████
+█████████████████████   █████████  ███████████ █████████████████████
+███████████████████████  ████████  ██████████  █████████████████████
+████████████████████████  ███████  █████████  ██████████████████████
+██████████████████████████  █████  ████████  ███████████████████████
+███████████████████████████  ████  ███████   ███████████████████████
+████████████████████████████   ██  ██████  █████████████████████████
+ █████████████████████████████     ████   █████████████████████████ 
+ █████████████████      ███████    ██   ████     ██████████████████ 
+ ██████████████           ██████     ██████          █████████████  
+  ███████████             ███████    █████             ██████████   
+   ██████████            ███████   █  █████            ██████████   
+   █████████           ███████     ███  █████           ████████    
+    █████████        ███████   ██  ████  ██████       █████████     
+      ████████████████████   ████  ██████  ███████████████████      
+     ███████████████████   ██████  ███████  ██████████████████      
+     █████████████████   ████████  ████████   █████████████████     
+     █████████████████ ██████████  ████████████████████████████     
+     ████████████████████████████  ████████████████████████████     
+       ██████████████████████████████████████████████████████       
+         ██████████████████████████████████████████████████         
+            █████     ███████████████████████     ██████            
+                       ██████████████████████                       
+                          ████████████████                          
+```
